@@ -6,3 +6,6 @@
 
 //Using concatenation, add the two strings
 'My name is:venkat'
+
+//display above text in a popup
+alert('My name is:venkat');

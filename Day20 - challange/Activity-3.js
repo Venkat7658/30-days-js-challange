@@ -22,3 +22,4 @@ function autoPlay() {
       .innerHTML = 'Auto Play';
   }
 }
+
